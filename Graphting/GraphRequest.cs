@@ -2,7 +2,7 @@
 
 namespace Graphting
 {
-    public class Class1
+    public class GraphRequest
     {
     }
 }
